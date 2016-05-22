@@ -1,0 +1,75 @@
+
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+
+body,html{
+
+  height: 100%
+  width:100%;
+  background-color: #1e3f56;
+}
+
+.calculator{
+
+  background-color: #561e23 ;
+  width: 300px;
+  height: 350px;
+  text-align: center;
+  border-radius: 10px;
+  margin: auto;
+  position: absolute;
+  top: 0; right: 0; left: 0; bottom: 0;
+  padding: 5px;
+}
+
+h1{
+
+  font-family: 'Lato', cursive;
+  color: #9f3737;
+  margin-top: 12px;
+  font-size: 25px;
+}
+button{
+
+
+  border: none;
+  height: 40px;
+
+}
+
+.buttons {
+  width: 275px;
+  text-align: center; 
+  margin:20px auto 20px auto;
+}
+
+.button{
+  float: right;
+  margin: 1.5px;
+  width: 64.75px;
+  color: #fff;
+  background: #9f3737;
+  cursor: pointer;
+}
+.textbox{
+
+
+   margin-top: 10px;
+   text-align: right;
+   height: 20px;
+   width: 250px;
+   background-color: #561e23
+   font-size:520px;
+   color: #561e23;
+
+
+}
+input ["text"] {
+
+font-size: 100%
+
+}
+  
+
+
+
