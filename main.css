@@ -40,12 +40,12 @@ button{
 .buttons {
   width: 275px;
   text-align: center; 
-  margin:20px auto 20px auto;
+  margin:10px auto 20px auto;
 }
 
 .button{
   float: right;
-  margin: 1.5px;
+  margin: 1px;
   width: 64.75px;
   color: #fff;
   background: #9f3737;
