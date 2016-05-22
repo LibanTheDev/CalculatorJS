@@ -64,7 +64,22 @@ button{
 
 
 }
+footer {
 
+  
+  margin-top: 625px;
+
+}
+footer p{
+
+  font-family: 'Lato', cursive;
+  font-size: 20px;
+
+}
+footer a {
+
+  text-decoration: none;
+}
   
 
 
